@@ -1,0 +1,52 @@
+ [
+    {
+      "nombre": "Madrid",
+      "coordenadas": {
+        "lat": 40.4168,
+        "lng": -3.7038
+      }
+     
+    },
+    {
+      "nombre": "Barcelona",
+      "coordenadas": {
+        "lat": 41.3851,
+        "lng": 2.1734
+      }
+    },
+    {
+      "nombre": "Valencia",
+      "coordenadas": {
+        "lat": 39.4699,
+        "lng": -0.3763
+      }
+    },
+    {
+      "nombre": "Sevilla",
+      "coordenadas": {
+        "lat": 37.3891,
+        "lng": -5.9845
+      }
+    },
+    {
+      "nombre": "Bilbao",
+      "coordenadas": {
+        "lat": 43.2630,
+        "lng": -2.9350
+      }
+    },
+     {
+      "nombre": "Málaga",
+      "coordenadas": {
+        "lat": 36.7213,
+        "lng": -4.4214
+      }
+    },
+      {
+      "nombre": "Salamanca",
+      "coordenadas": {
+        "lat": 40.9649,
+        "lng": -5.6635
+      }
+    }
+  ]
